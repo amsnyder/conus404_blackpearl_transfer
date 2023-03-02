@@ -1,0 +1,139 @@
+# wrfout
+# 1980-2013
+/wrfconus404/WY1980/wrfout/ /wrfconus404/WY1980/wrfout/ -r
+/wrfconus404/WY1981/wrfout/ /wrfconus404/WY1981/wrfout/ -r
+/wrfconus404/WY1982/wrfout/ /wrfconus404/WY1982/wrfout/ -r
+/wrfconus404/WY1983/wrfout/ /wrfconus404/WY1983/wrfout/ -r
+/wrfconus404/WY1984/wrfout/ /wrfconus404/WY1984/wrfout/ -r
+/wrfconus404/WY1985/wrfout/ /wrfconus404/WY1985/wrfout/ -r
+/wrfconus404/WY1986/wrfout/ /wrfconus404/WY1986/wrfout/ -r
+/wrfconus404/WY1987/wrfout/ /wrfconus404/WY1987/wrfout/ -r
+/wrfconus404/WY1988/wrfout/ /wrfconus404/WY1988/wrfout/ -r
+/wrfconus404/WY1989/wrfout/ /wrfconus404/WY1989/wrfout/ -r
+/wrfconus404/WY1990/wrfout/ /wrfconus404/WY1990/wrfout/ -r
+/wrfconus404/WY1991/wrfout/ /wrfconus404/WY1991/wrfout/ -r
+/wrfconus404/WY1992/wrfout/ /wrfconus404/WY1992/wrfout/ -r
+/wrfconus404/WY1993/wrfout/ /wrfconus404/WY1993/wrfout/ -r
+/wrfconus404/WY1994/wrfout/ /wrfconus404/WY1994/wrfout/ -r
+/wrfconus404/WY1995/wrfout/ /wrfconus404/WY1995/wrfout/ -r
+/wrfconus404/WY1996/wrfout/ /wrfconus404/WY1996/wrfout/ -r
+/wrfconus404/WY1997/wrfout/ /wrfconus404/WY1997/wrfout/ -r
+/wrfconus404/WY1998/wrfout/ /wrfconus404/WY1998/wrfout/ -r
+/wrfconus404/WY1999/wrfout/ /wrfconus404/WY1999/wrfout/ -r
+/wrfconus404/WY2000/wrfout/ /wrfconus404/WY2000/wrfout/ -r
+/wrfconus404/WY2001/wrfout/ /wrfconus404/WY2001/wrfout/ -r
+/wrfconus404/WY2002/wrfout/ /wrfconus404/WY2002/wrfout/ -r
+/wrfconus404/WY2003/wrfout/ /wrfconus404/WY2003/wrfout/ -r
+/wrfconus404/WY2004/wrfout/ /wrfconus404/WY2004/wrfout/ -r
+/wrfconus404/WY2005/wrfout/ /wrfconus404/WY2005/wrfout/ -r
+/wrfconus404/WY2006/wrfout/ /wrfconus404/WY2006/wrfout/ -r
+/wrfconus404/WY2007/wrfout/ /wrfconus404/WY2007/wrfout/ -r
+/wrfconus404/WY2008/wrfout/ /wrfconus404/WY2008/wrfout/ -r
+/wrfconus404/WY2009/wrfout/ /wrfconus404/WY2009/wrfout/ -r
+/wrfconus404/WY2010/wrfout/ /wrfconus404/WY2010/wrfout/ -r
+/wrfconus404/WY2011/wrfout/ /wrfconus404/WY2011/wrfout/ -r
+/wrfconus404/WY2012/wrfout/ /wrfconus404/WY2012/wrfout/ -r
+/wrfconus404/WY2013/wrfout/ /wrfconus404/WY2013/wrfout/ -r
+
+# 2014-2020
+/wrfconus404-disk/WY2014/wrfout/ /wrfconus404/WY2014/wrfout/ -r
+/wrfconus404-disk/WY2015/wrfout/ /wrfconus404/WY2015/wrfout/ -r
+/wrfconus404-disk/WY2016/wrfout/ /wrfconus404/WY2016/wrfout/ -r
+/wrfconus404-disk/WY2017/wrfout/ /wrfconus404/WY2017/wrfout/ -r
+/wrfconus404-disk/WY2018/wrfout/ /wrfconus404/WY2018/wrfout/ -r
+/wrfconus404-disk/WY2019/wrfout/ /wrfconus404/WY2019/wrfout/ -r
+/wrfconus404-disk/WY2020/wrfout/ /wrfconus404/WY2020/wrfout/ -r
+
+
+# auxhist24
+# 1980-2013
+/wrfconus404/WY1980/auxhist24/ /wrfconus404/WY1980/auxhist24/ -r
+/wrfconus404/WY1981/auxhist24/ /wrfconus404/WY1981/auxhist24/ -r
+/wrfconus404/WY1982/auxhist24/ /wrfconus404/WY1982/auxhist24/ -r
+/wrfconus404/WY1983/auxhist24/ /wrfconus404/WY1983/auxhist24/ -r
+/wrfconus404/WY1984/auxhist24/ /wrfconus404/WY1984/auxhist24/ -r
+/wrfconus404/WY1985/auxhist24/ /wrfconus404/WY1985/auxhist24/ -r
+/wrfconus404/WY1986/auxhist24/ /wrfconus404/WY1986/auxhist24/ -r
+/wrfconus404/WY1987/auxhist24/ /wrfconus404/WY1987/auxhist24/ -r
+/wrfconus404/WY1988/auxhist24/ /wrfconus404/WY1988/auxhist24/ -r
+/wrfconus404/WY1989/auxhist24/ /wrfconus404/WY1989/auxhist24/ -r
+/wrfconus404/WY1990/auxhist24/ /wrfconus404/WY1990/auxhist24/ -r
+/wrfconus404/WY1991/auxhist24/ /wrfconus404/WY1991/auxhist24/ -r
+/wrfconus404/WY1992/auxhist24/ /wrfconus404/WY1992/auxhist24/ -r
+/wrfconus404/WY1993/auxhist24/ /wrfconus404/WY1993/auxhist24/ -r
+/wrfconus404/WY1994/auxhist24/ /wrfconus404/WY1994/auxhist24/ -r
+/wrfconus404/WY1995/auxhist24/ /wrfconus404/WY1995/auxhist24/ -r
+/wrfconus404/WY1996/auxhist24/ /wrfconus404/WY1996/auxhist24/ -r
+/wrfconus404/WY1997/auxhist24/ /wrfconus404/WY1997/auxhist24/ -r
+/wrfconus404/WY1998/auxhist24/ /wrfconus404/WY1998/auxhist24/ -r
+/wrfconus404/WY1999/auxhist24/ /wrfconus404/WY1999/auxhist24/ -r
+/wrfconus404/WY2000/auxhist24/ /wrfconus404/WY2000/auxhist24/ -r
+/wrfconus404/WY2001/auxhist24/ /wrfconus404/WY2001/auxhist24/ -r
+/wrfconus404/WY2002/auxhist24/ /wrfconus404/WY2002/auxhist24/ -r
+/wrfconus404/WY2003/auxhist24/ /wrfconus404/WY2003/auxhist24/ -r
+/wrfconus404/WY2004/auxhist24/ /wrfconus404/WY2004/auxhist24/ -r
+/wrfconus404/WY2005/auxhist24/ /wrfconus404/WY2005/auxhist24/ -r
+/wrfconus404/WY2006/auxhist24/ /wrfconus404/WY2006/auxhist24/ -r
+/wrfconus404/WY2007/auxhist24/ /wrfconus404/WY2007/auxhist24/ -r
+/wrfconus404/WY2008/auxhist24/ /wrfconus404/WY2008/auxhist24/ -r
+/wrfconus404/WY2009/auxhist24/ /wrfconus404/WY2009/auxhist24/ -r
+/wrfconus404/WY2010/auxhist24/ /wrfconus404/WY2010/auxhist24/ -r
+/wrfconus404/WY2011/auxhist24/ /wrfconus404/WY2011/auxhist24/ -r
+/wrfconus404/WY2012/auxhist24/ /wrfconus404/WY2012/auxhist24/ -r
+/wrfconus404/WY2013/auxhist24/ /wrfconus404/WY2013/auxhist24/ -r
+
+# 2014-2020
+/wrfconus404-disk/WY2014/auxhist24/ /wrfconus404/WY2014/auxhist24/ -r
+/wrfconus404-disk/WY2015/auxhist24/ /wrfconus404/WY2015/auxhist24/ -r
+/wrfconus404-disk/WY2016/auxhist24/ /wrfconus404/WY2016/auxhist24/ -r
+/wrfconus404-disk/WY2017/auxhist24/ /wrfconus404/WY2017/auxhist24/ -r
+/wrfconus404-disk/WY2018/auxhist24/ /wrfconus404/WY2018/auxhist24/ -r
+/wrfconus404-disk/WY2019/auxhist24/ /wrfconus404/WY2019/auxhist24/ -r
+/wrfconus404-disk/WY2020/auxhist24/ /wrfconus404/WY2020/auxhist24/ -r
+
+
+# wrfxtrm
+# 1980-2013
+/wrfconus404/WY1980/wrfxtrm/ /wrfconus404/WY1980/wrfxtrm/ -r
+/wrfconus404/WY1981/wrfxtrm/ /wrfconus404/WY1981/wrfxtrm/ -r
+/wrfconus404/WY1982/wrfxtrm/ /wrfconus404/WY1982/wrfxtrm/ -r
+/wrfconus404/WY1983/wrfxtrm/ /wrfconus404/WY1983/wrfxtrm/ -r
+/wrfconus404/WY1984/wrfxtrm/ /wrfconus404/WY1984/wrfxtrm/ -r
+/wrfconus404/WY1985/wrfxtrm/ /wrfconus404/WY1985/wrfxtrm/ -r
+/wrfconus404/WY1986/wrfxtrm/ /wrfconus404/WY1986/wrfxtrm/ -r
+/wrfconus404/WY1987/wrfxtrm/ /wrfconus404/WY1987/wrfxtrm/ -r
+/wrfconus404/WY1988/wrfxtrm/ /wrfconus404/WY1988/wrfxtrm/ -r
+/wrfconus404/WY1989/wrfxtrm/ /wrfconus404/WY1989/wrfxtrm/ -r
+/wrfconus404/WY1990/wrfxtrm/ /wrfconus404/WY1990/wrfxtrm/ -r
+/wrfconus404/WY1991/wrfxtrm/ /wrfconus404/WY1991/wrfxtrm/ -r
+/wrfconus404/WY1992/wrfxtrm/ /wrfconus404/WY1992/wrfxtrm/ -r
+/wrfconus404/WY1993/wrfxtrm/ /wrfconus404/WY1993/wrfxtrm/ -r
+/wrfconus404/WY1994/wrfxtrm/ /wrfconus404/WY1994/wrfxtrm/ -r
+/wrfconus404/WY1995/wrfxtrm/ /wrfconus404/WY1995/wrfxtrm/ -r
+/wrfconus404/WY1996/wrfxtrm/ /wrfconus404/WY1996/wrfxtrm/ -r
+/wrfconus404/WY1997/wrfxtrm/ /wrfconus404/WY1997/wrfxtrm/ -r
+/wrfconus404/WY1998/wrfxtrm/ /wrfconus404/WY1998/wrfxtrm/ -r
+/wrfconus404/WY1999/wrfxtrm/ /wrfconus404/WY1999/wrfxtrm/ -r
+/wrfconus404/WY2000/wrfxtrm/ /wrfconus404/WY2000/wrfxtrm/ -r
+/wrfconus404/WY2001/wrfxtrm/ /wrfconus404/WY2001/wrfxtrm/ -r
+/wrfconus404/WY2002/wrfxtrm/ /wrfconus404/WY2002/wrfxtrm/ -r
+/wrfconus404/WY2003/wrfxtrm/ /wrfconus404/WY2003/wrfxtrm/ -r
+/wrfconus404/WY2004/wrfxtrm/ /wrfconus404/WY2004/wrfxtrm/ -r
+/wrfconus404/WY2005/wrfxtrm/ /wrfconus404/WY2005/wrfxtrm/ -r
+/wrfconus404/WY2006/wrfxtrm/ /wrfconus404/WY2006/wrfxtrm/ -r
+/wrfconus404/WY2007/wrfxtrm/ /wrfconus404/WY2007/wrfxtrm/ -r
+/wrfconus404/WY2008/wrfxtrm/ /wrfconus404/WY2008/wrfxtrm/ -r
+/wrfconus404/WY2009/wrfxtrm/ /wrfconus404/WY2009/wrfxtrm/ -r
+/wrfconus404/WY2010/wrfxtrm/ /wrfconus404/WY2010/wrfxtrm/ -r
+/wrfconus404/WY2011/wrfxtrm/ /wrfconus404/WY2011/wrfxtrm/ -r
+/wrfconus404/WY2012/wrfxtrm/ /wrfconus404/WY2012/wrfxtrm/ -r
+/wrfconus404/WY2013/wrfxtrm/ /wrfconus404/WY2013/wrfxtrm/ -r
+
+# 2014-2020
+/wrfconus404-disk/WY2014/wrfxtrm/ /wrfconus404/WY2014/wrfxtrm/ -r
+/wrfconus404-disk/WY2015/wrfxtrm/ /wrfconus404/WY2015/wrfxtrm/ -r
+/wrfconus404-disk/WY2016/wrfxtrm/ /wrfconus404/WY2016/wrfxtrm/ -r
+/wrfconus404-disk/WY2017/wrfxtrm/ /wrfconus404/WY2017/wrfxtrm/ -r
+/wrfconus404-disk/WY2018/wrfxtrm/ /wrfconus404/WY2018/wrfxtrm/ -r
+/wrfconus404-disk/WY2019/wrfxtrm/ /wrfconus404/WY2019/wrfxtrm/ -r
+/wrfconus404-disk/WY2020/wrfxtrm/ /wrfconus404/WY2020/wrfxtrm/ -r

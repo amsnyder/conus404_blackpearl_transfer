@@ -1,0 +1,23 @@
+# auxhist24
+/wrfconus404/WY1991/auxhist24/ /wrfconus404/WY1991/auxhist24/ -r
+/wrfconus404/WY1992/auxhist24/ /wrfconus404/WY1992/auxhist24/ -r
+/wrfconus404/WY1993/auxhist24/ /wrfconus404/WY1993/auxhist24/ -r
+/wrfconus404/WY1994/auxhist24/ /wrfconus404/WY1994/auxhist24/ -r
+/wrfconus404/WY1995/auxhist24/ /wrfconus404/WY1995/auxhist24/ -r
+/wrfconus404/WY1996/auxhist24/ /wrfconus404/WY1996/auxhist24/ -r
+/wrfconus404/WY1997/auxhist24/ /wrfconus404/WY1997/auxhist24/ -r
+/wrfconus404/WY1998/auxhist24/ /wrfconus404/WY1998/auxhist24/ -r
+/wrfconus404/WY1999/auxhist24/ /wrfconus404/WY1999/auxhist24/ -r
+/wrfconus404/WY2000/auxhist24/ /wrfconus404/WY2000/auxhist24/ -r
+
+# wrfxtrm
+/wrfconus404/WY1991/wrfxtrm/ /wrfconus404/WY1991/wrfxtrm/ -r
+/wrfconus404/WY1992/wrfxtrm/ /wrfconus404/WY1992/wrfxtrm/ -r
+/wrfconus404/WY1993/wrfxtrm/ /wrfconus404/WY1993/wrfxtrm/ -r
+/wrfconus404/WY1994/wrfxtrm/ /wrfconus404/WY1994/wrfxtrm/ -r
+/wrfconus404/WY1995/wrfxtrm/ /wrfconus404/WY1995/wrfxtrm/ -r
+/wrfconus404/WY1996/wrfxtrm/ /wrfconus404/WY1996/wrfxtrm/ -r
+/wrfconus404/WY1997/wrfxtrm/ /wrfconus404/WY1997/wrfxtrm/ -r
+/wrfconus404/WY1998/wrfxtrm/ /wrfconus404/WY1998/wrfxtrm/ -r
+/wrfconus404/WY1999/wrfxtrm/ /wrfconus404/WY1999/wrfxtrm/ -r
+/wrfconus404/WY2000/wrfxtrm/ /wrfconus404/WY2000/wrfxtrm/ -r
